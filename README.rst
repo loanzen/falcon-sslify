@@ -1,6 +1,8 @@
 falcon-sslify
 =============
 
+|docs|
+
 Release v\ |version|
 
 A simple falcon middleware that configures your app to redirect all incoming requests to HTTPS.
@@ -79,3 +81,10 @@ API
 ---
 .. autoclass:: falcon_sslify.FalconSSLify
     :members:
+
+
+.. |docs| image:: https://readthedocs.org/projects/docs/badge/?version=latest
+    :alt: Documentation Status
+    :scale: 100%
+    :target: https://falcon-sslify.readthedocs.io/en/latest/?badge=latest
+
