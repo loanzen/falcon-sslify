@@ -1,9 +1,8 @@
 falcon-sslify
 =============
 
-|docs|
+|version| |docs|
 
-Release v\ |version|
 
 A simple falcon middleware that configures your app to redirect all incoming requests to HTTPS.
 This is a port of `flask-sslify <https://github.com/kennethreitz/flask-sslify>`__ by
@@ -88,3 +87,5 @@ API
     :scale: 100%
     :target: https://falcon-sslify.readthedocs.io/en/latest/?badge=latest
 
+.. |version| image:: https://img.shields.io/pypi/v/falcon-sslify.svg
+    :target: https://pypi.python.org/pypi/falcon-sslify
