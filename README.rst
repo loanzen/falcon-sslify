@@ -16,7 +16,7 @@ Install the extension with using pip, or easy\_install.
 
 .. code:: bash
 
-    $ pip install -U flask-cors
+    $ pip install -U falcon-sslify
 
 Usage
 -----
